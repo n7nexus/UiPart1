@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UiPart1</string>
+    <string name="purpose_string">What is my Purpose?</string>
+    <string name="android_image_desc">android</string>
+    <string name="pass_the_butter_hint">Pass the butter</string>
+    <string name="that_s_it_button_text">That\'s it!</string>
+</resources>
